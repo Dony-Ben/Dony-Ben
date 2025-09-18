@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dony Benny</h1>
+<h1 align="center">Hi 👋, I'm Dony </h1>
 <h3 align="center">A passionate Fullstack Developer </h3>
 
 ---
